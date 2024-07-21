@@ -47,6 +47,15 @@ ul li a:hover{
     background-color: #fff;
     color: #000;
 }
+.body {
+  height: 10%;
+  width: 60%;
+  border: 4px solid #f7f7f7;
+  border-radius: 15px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
 .middle_cover {
     display: flex;
     gap: 20px;
